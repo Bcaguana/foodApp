@@ -1,4 +1,4 @@
-package com.example.foodapp;
+package com.example.foodapp.Activities;
 
 //Strings needed to access and alter database
 public class databaseConnections {
